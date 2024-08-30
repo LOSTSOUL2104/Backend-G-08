@@ -6,7 +6,7 @@ Using Mongosh:          2.3.0
 
 For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
 
-------
+--------
    The server generated these startup warnings when booting
    2024-08-30T09:28:48.525+05:30: Access control is not enabled for the database. Read and write access to data and configuration is unrestricted
 ------
